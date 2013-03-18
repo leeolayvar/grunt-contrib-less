@@ -28,7 +28,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "less": "git://github.com/cloudhead/less.js.git"
+    "less": "beta"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.2.0",
